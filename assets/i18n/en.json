@@ -1,0 +1,104 @@
+{
+  "HOME": {
+    "GREETING": "Hi There,",
+    "NAME_INTRO": "I'm",
+    "NAME": "Bassam Ramadan",
+    "ROLE_INTRO": "I'm",
+    "ROLES": {
+      "frontend": "Software Developer",
+      "angular": "Angular Developer"
+    },
+    "ABOUT_BUTTON": "About Me",
+    "SOCIAL_LINKEDIN": "LinkedIn Profile",
+    "SOCIAL_GITHUB": "GitHub Profile",
+    "SOCIAL_EMAIL": "Email Bassam"
+  },
+"ABOUT": {
+  "TITLE": "About",
+  "ME": "Me",
+  "NAME": "I'm Bassam",
+  "TITLE_ROLE": "Front-End & Integration Developer",
+  "DESCRIPTION": "I’m a versatile developer with experience in frontend, integration, and software development. As a Frontend Developer, I’ve built responsive, user-focused applications with Angular, transforming designs from Figma into pixel-perfect web pages. At MILLENSYS, I specialize in integrating healthcare systems using Mirth Connect, optimizing SQL databases, and enabling real-time API communication. My work with the Egypt Army involved developing VB.NET desktop applications, automating processes with Python, and managing large-scale SQL Server databases. I’m passionate about performance optimization, seamless user experiences, and delivering reliable, innovative solutions.",
+  "EMAIL_LABEL": "Email",
+  "EMAIL": "bassamramadan964@gmail.com",
+  "PLACE_LABEL": "Place",
+  "PLACE": "Cairo, Egypt",
+  "RESUME": "Resume",
+  "ALT_IMAGE": "Profile picture of Bassam",
+  "ALT_ARROW": "Decorative arrow"
+},
+  "PORTFOLIO": {
+    "TITLE": "Portfolio",
+    "PROJECT1": "Project 1: Description of your first project.",
+    "PROJECT2": "Project 2: Description of your second project."
+  },
+"CONTACT": {
+    "TITLE": "Get in",
+    "TOUCH": "Touch",
+    "NAME_PLACEHOLDER": "Name",
+    "EMAIL_PLACEHOLDER": "Email",
+    "PHONE_PLACEHOLDER": "Phone",
+    "MESSAGE_PLACEHOLDER": "Message",
+    "SUBMIT": "Submit",
+    "NAME_ERROR": "Name is required",
+    "EMAIL_ERROR": "A valid email is required",
+    "PHONE_ERROR": "Phone number is required",
+    "MESSAGE_ERROR": "Message is required",
+    "SUCCESS_MESSAGE": "Message prepared for WhatsApp! Please send it.",
+    "ERROR_MESSAGE": "Sorry, there was an error preparing your message. Please try another contact method.",
+    "INVALID_FORM": "Please fill out all required fields correctly.",
+    "NAME_LABEL": "Name",
+    "EMAIL_LABEL": "Email",
+    "PHONE_LABEL": "Phone",
+    "MESSAGE_LABEL": "Message"
+  },
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "PORTFOLIO": "Portfolio",
+    "SKILLS": "Skills",
+    "CONTACT": "Contact",
+    "EXPERIENCE": "Experience",
+
+    "LANGUAGE": "Language",
+    "ENGLISH": "English",
+    "ARABIC": "Arabic",
+    "DARK_MODE": "Toggle Dark Mode"
+  },
+  
+   "SKILLS": {
+      "TITLE": "My",
+      "EXPERTISE": "Skills"
+    },
+    "PROJECTS": {
+    "TITLE": "My",
+      "WORK": "Projects",
+      "VIEW": "View",
+      "CODE": "Code",
+      "DETAILS": "Details",
+      "CLOSE": "Close",
+      "PREV": "Previous Slide",
+      "NEXT": "Next Slide",
+      "GO_TO_SLIDE": "Go to slide",
+      "CAROUSEL": "Projects Carousel",
+      "In Development": "In Development"
+    }, 
+     "FOOTER": {
+      "NAVIGATION": "Footer Navigation",
+      "HOME": "Home",
+      "ABOUT": "About",
+      "SKILLS": "Skills",
+      "PORTFOLIO": "Portfolio",
+      "CONTACT": "Contact",
+      "EXPERIENCE": "Experience",
+
+      "GITHUB": "GitHub Profile",
+      "LINKEDIN": "LinkedIn Profile",
+      "WHATSAPP": "WhatsApp Contact",
+      "COPYRIGHT": "All rights reserved"
+    },
+     "EXPERIENCE": {
+      "TITLE": "My",
+      "WORK": "Experience"
+    }
+}
